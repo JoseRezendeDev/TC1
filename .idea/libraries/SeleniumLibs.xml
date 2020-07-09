@@ -9,6 +9,8 @@
       <root url="jar://$PROJECT_DIR$/lib/webdriver/client-combined-3.141.59.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/webdriver/client-combined-3.141.59.jar!/" />
+    </SOURCES>
   </library>
 </component>
